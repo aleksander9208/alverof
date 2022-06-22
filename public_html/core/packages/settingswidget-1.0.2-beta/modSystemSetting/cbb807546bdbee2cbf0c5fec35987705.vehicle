@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'settingswidget',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9cd385f079b8a8b31309901b5b2f9f20',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'cbb807546bdbee2cbf0c5fec35987705',
+  'native_key' => 'settingswidget_keys',
+  'object' => '{"key":"settingswidget_keys","value":"","xtype":"textarea","namespace":"settingswidget","area":"settingswidget_main","editedon":null}',
+);

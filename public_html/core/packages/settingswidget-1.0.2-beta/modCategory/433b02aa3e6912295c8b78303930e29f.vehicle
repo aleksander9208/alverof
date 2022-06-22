@@ -1,0 +1,39 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => true,
+  'namespace' => 'settingswidget',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"settingswidget-1.0.2-beta\\/modCategory\\/433b02aa3e6912295c8b78303930e29f\\/0\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"settingswidget"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"settingswidget-1.0.2-beta\\/modCategory\\/433b02aa3e6912295c8b78303930e29f\\/1\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"settingswidget"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"settingswidget-1.0.2-beta\\/modCategory\\/433b02aa3e6912295c8b78303930e29f.resolve.extension.resolver","type":"php","name":"resolve.extension"}',
+    ),
+    3 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"settingswidget-1.0.2-beta\\/modCategory\\/433b02aa3e6912295c8b78303930e29f.resolve.settings.resolver","type":"php","name":"resolve.settings"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '692d716336fd328146ca3dce65200f3b',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '433b02aa3e6912295c8b78303930e29f',
+  'native_key' => NULL,
+  'object' => '{"id":null,"parent":0,"category":"settingsWidget","rank":0}',
+);

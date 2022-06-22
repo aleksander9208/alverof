@@ -1,0 +1,19 @@
+<?php return array (
+  'preserve_keys' => false,
+  'update_object' => true,
+  'unique_key' => 
+  array (
+    0 => 'name',
+  ),
+  'namespace' => 'settingswidget',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '461541d4b611f770838ba19a101fd5c8',
+  'package' => 'modx',
+  'class' => 'modDashboardWidget',
+  'signature' => 'c95257a449fa9c7ed7a1d14a07240a1b',
+  'native_key' => NULL,
+  'object' => '{"id":null,"name":"settingswidget","description":"Fast settings widget for MODX","type":"file","content":"[[++core_path]]components\\/settingswidget\\/elements\\/widget\\/settingswidget.widget.php","namespace":"settingswidget","lexicon":"settingswidget:default","size":"double","name_trans":"settingswidget","description_trans":"Fast settings widget for MODX"}',
+);
